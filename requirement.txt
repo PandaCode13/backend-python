@@ -1,0 +1,20 @@
+# Framework API
+fastapi
+
+# Serveur ASGI pour lancer FastAPI
+uvicorn
+
+# ORM utilise par les models SQLAlchemy
+sqlalchemy
+
+# Connexion MySQL
+pymysql
+
+# Connexion PostgreSQL
+psycopg2-binary
+
+# Connexion MongoDB
+pymongo
+
+# Chargement des variables d'environnement depuis le fichier .env
+python-dotenv
