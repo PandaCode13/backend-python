@@ -1,4 +1,4 @@
-# CRM Commerce API
+# Python Backend API
 
 Backend Python avec FastAPI pour gerer des utilisateurs, destinations,
 reservations et paiements.
